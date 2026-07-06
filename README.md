@@ -47,6 +47,15 @@ This automation creates an AI customer support assistant that:
 - Automatic conversation logging
 - No-code automation
 
+## 🎯 Business Value
+
+This automation helps businesses:
+
+- Save time by automating customer support
+- Reduce repetitive manual work
+- Improve response speed
+- Keep conversation history automatically
+- Store customer interactions for future analysis
 ---
 
 ## 🎥 Demo
