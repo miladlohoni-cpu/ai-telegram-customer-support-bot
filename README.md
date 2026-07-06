@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Gemini](https://img.shields.io/badge/Google-Gemini-blue)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0)
+
 # AI Telegram Customer Support Bot with n8n & Gemini
 
 ## 🚀 Overview
