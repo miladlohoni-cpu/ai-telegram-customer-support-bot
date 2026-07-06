@@ -60,3 +60,6 @@ Coming Soon
 ## 📄 License
 
 MIT
+## 📷 Workflow
+
+![Workflow](workflow.png)
