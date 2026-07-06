@@ -58,9 +58,17 @@ This automation helps businesses:
 - Store customer interactions for future analysis
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-Coming Soon
+A short demonstration video of this workflow will be available soon.
+
+The demo will show:
+
+- Customer sends a message via Telegram
+- n8n processes the request
+- Gemini generates an AI response
+- The response is sent back to Telegram
+- The conversation is automatically stored in Google Sheets
 
 ---
 
