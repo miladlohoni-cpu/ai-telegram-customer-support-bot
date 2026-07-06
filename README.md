@@ -57,6 +57,9 @@ This automation helps businesses:
 - Keep conversation history automatically
 - Store customer interactions for future analysis
 ---
+## 🎥 Demo
+
+Coming Soon
 
 ## 🎥 Demo Video
 
@@ -72,15 +75,12 @@ The demo will show:
 
 ---
 
-## 📷 Screenshots
-
-Coming Soon
-
----
-
 ## 📄 License
 
 MIT
+
+## 📷 Screenshots
+
 ## 📷 Workflow
 
 ![Workflow](workflow.png)
