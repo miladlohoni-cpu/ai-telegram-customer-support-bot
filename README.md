@@ -59,13 +59,17 @@ This automation helps businesses:
 ---
 ## 🎥 Demo
 
-Coming Soon
+## 🎥 Project Demo
 
-## 🎥 Demo Video
+A complete demonstration of this AI automation project is available on my Telegram portfolio channel.
 
-A short demonstration video of this workflow will be available soon.
+### Demo Videos
 
-The demo will show:
+- 🇬🇧 English Demo
+- 🇮🇷 Persian Demo
+
+📺 Watch here:
+https://t.me/MiladAIX
 
 - Customer sends a message via Telegram
 - n8n processes the request
