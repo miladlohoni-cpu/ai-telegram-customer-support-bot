@@ -59,11 +59,14 @@ This automation helps businesses:
 ---
 ## 🎥 Demo
 
-## 🎥 Project Demo
-
 A complete demonstration of this AI automation project is available on my Telegram portfolio channel.
 
 ### Demo Videos
+
+## 🎥 Project Demo
+
+- 🇬🇧 **[Watch English Demo](https://t.me/MiladAIX/9)**
+- 🇮🇷 **[Watch Persian Demo](https://t.me/MiladAIX/7)**
 
 - 🇬🇧 English Demo
 - 🇮🇷 Persian Demo
