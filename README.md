@@ -67,6 +67,7 @@ A complete demonstration of this AI automation project is available on my Telegr
 
 - 🇬🇧 **[Watch English Demo](https://t.me/MiladAIX/9)**
 - 🇮🇷 **[Watch Persian Demo](https://t.me/MiladAIX/7)**
+- 🇮🇷 **[Watch Persian Demo](https://t.me/MiladAIX/12)**
 
 - 🇬🇧 English Demo
 - 🇮🇷 Persian Demo
